@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>blog</title>
+    <link>http://www.petrruzicka.com</link>
+    <description>Blog</description>
+    <pubDate>Mon, 28 Apr 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>List</title>
+      <link>http://www.petrruzicka.com/2014/04/28/list.html</link>
+      <description>&lt;p&gt;Pokud je člověk naživu, tak je v neustálém pohybu - srdce tepe, plíce nasávají vzduch, trávicí systém funguje, krev obíhá a děje se miliarda dalších věcí. Tělo pracuje, funguje, žije. Neexistuje okamžik, ani čas, kdy bude tělo stejné jako před minutou. Ani před hodinou.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/2014/04/28/list.html</guid>
+      <dc:date>2014-04-28T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Zacneme</title>
+      <link>http://www.petrruzicka.com/2014/04/25/zacneme.html</link>
+      <description>&lt;p&gt;Už dlouho jsem si hrál s myšlenkou, začít znovu něco psát. Tak je to tady.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 25 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/2014/04/25/zacneme.html</guid>
+      <dc:date>2014-04-25T00:00:00+02:00</dc:date>
+    </item>
+    <dc:date>2014-04-28T00:00:00+02:00</dc:date>
+  </channel>
+</rss>
