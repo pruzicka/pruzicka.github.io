@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){$(".nav li").removeClass("active"),$('ul a[href="'+this.location.pathname+'"]').parents("li").addClass("active")});
