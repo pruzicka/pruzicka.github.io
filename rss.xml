@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Blog</description>
-    <pubDate>Mon, 28 Apr 2014 00:00:00 +0200</pubDate>
+    <pubDate>Mon, 05 May 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Zivot V Korzetu</title>
+      <link>http://www.petrruzicka.com/2014/05/05/zivot-v-korzetu.html</link>
+      <description>&lt;p&gt;Za svůj život jsem udělal spoustu chyb a jsem si jistý, že  dost jich je ještě ve frontě. Jednou z nich byl &amp;quot;život v korzetu&amp;quot;. &lt;/p&gt;
+</description>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/2014/05/05/zivot-v-korzetu.html</guid>
+      <dc:date>2014-05-05T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>List</title>
       <link>http://www.petrruzicka.com/2014/04/28/list.html</link>
@@ -27,6 +36,6 @@
       <guid>http://www.petrruzicka.com/2014/04/25/zacneme.html</guid>
       <dc:date>2014-04-25T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-04-28T00:00:00+02:00</dc:date>
+    <dc:date>2014-05-05T00:00:00+02:00</dc:date>
   </channel>
 </rss>
