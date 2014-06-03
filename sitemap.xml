@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.petrruzicka.com/blog/zidle-chudeho-muze/</loc>
+        <lastmod>2014-06-03T12:52:20+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.petrruzicka.com/blog/zacneme/</loc>
         <lastmod>2014-06-02T11:06:46+02:00</lastmod>
     </url>
@@ -39,7 +43,7 @@
     </url>
     <url>
         <loc>http://www.petrruzicka.com/</loc>
-        <lastmod>2014-06-02T22:01:37+02:00</lastmod>
+        <lastmod>2014-06-03T12:52:20+02:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
