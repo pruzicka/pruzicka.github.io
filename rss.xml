@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
+    <pubDate>Thu, 26 Jun 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Posvátná kráva</title>
+      <link>http://www.petrruzicka.com/blog/posvatna-krava/</link>
+      <description>&lt;p&gt;Jsme asymetrické bytosti. Levá polovina naší tváře je jiná než pravá. Téměř všechny naše orgány jsou uloženy asymetricky. Rozdělujeme se na praváky a leváky. Náše zkušenosti, preference, historie zranění, sport - náš život - to všechno asymetrii jenom prohlubuje.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/blog/posvatna-krava/</guid>
+      <dc:date>2014-06-26T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Nové termíny seminářů</title>
       <link>http://www.petrruzicka.com/blog/nove-terminy-seminaru/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/co-si-vzit-na-dovolenou/</guid>
       <dc:date>2014-06-09T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Židle chudého muže</title>
-      <link>http://www.petrruzicka.com/blog/zidle-chudeho-muze/</link>
-      <description>&lt;p&gt;Než jsme měli na čem sedět, seděli jsme ve dřepu. Ono v přirodě se nedá moc sedět na zemi - buď člověk nastydne, sedne si na škorpióna nebo přiběhne velký mravenec a kousne vás do citlivých partií. Dřep byl pro člověka relaxační, odpočinková nebo i pracovní pozice. A tak by tomu mělo být.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 03 Jun 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/zidle-chudeho-muze/</guid>
-      <dc:date>2014-06-03T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-06-25T00:00:00+02:00</dc:date>
+    <dc:date>2014-06-26T00:00:00+02:00</dc:date>
   </channel>
 </rss>
