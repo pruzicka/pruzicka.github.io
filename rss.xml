@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Thu, 03 Jul 2014 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 13 Jul 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Jak se (ne)stát Gumídkem</title>
+      <link>http://www.petrruzicka.com/blog/stretching/</link>
+      <description>&lt;p&gt;&amp;#39;Natahovat se nebo se nenatahovat ? Toť otázka.&amp;#39; I tak by se mohl ptát  novodobý zmatený atlet. Stejně jako v případě jídla, tak i u stretchingu platí, že člověk neví, co má dělat a z každé strany slyší něco jiného. A platí, stejně jako v jinde - 90% těch informací je na nic.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 13 Jul 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/blog/stretching/</guid>
+      <dc:date>2014-07-13T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Optimální strava</title>
       <link>http://www.petrruzicka.com/blog/optimalni-strava/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/sila-dechu/</guid>
       <dc:date>2014-06-16T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Jak cvičit na mateřské dovolené</title>
-      <link>http://www.petrruzicka.com/blog/jak-cvicit-na-materske-dovolene/</link>
-      <description>&lt;p&gt;Existuje spousta knih, článků a rad o tom, jak cvičit, kdy cvičit a odvážnější dokonce radí, jak žít nebo kolik hodin spát. Pak se vám narodí potomek a jak už to tak býva, tato radostná událost vám převrátí život naruby -  spíte 4 hodiny denně, všechno vás bolí a už jste si dva dny nevyčistily zuby, protože jste to zatím nestihly. Nicméně pohyb je potřeba, máte velké cíle a musíte trénovat. Tak co s tím ?&lt;/p&gt;
-</description>
-      <pubDate>Wed, 11 Jun 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/jak-cvicit-na-materske-dovolene/</guid>
-      <dc:date>2014-06-11T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-07-03T00:00:00+02:00</dc:date>
+    <dc:date>2014-07-13T00:00:00+02:00</dc:date>
   </channel>
 </rss>
