@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Mon, 21 Jul 2014 00:00:00 +0200</pubDate>
+    <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Defenzivní síla</title>
+      <link>http://www.petrruzicka.com/blog/defenzivni-sila/</link>
+      <description>&lt;p&gt;Jestli trénujete jak generovat sílu, jak ji vytvořit a být silnější, je to jedna strana mince - ofenzivní síla. Pro život se musíte se i naučit jak přijímat sílu, jak ji vstřebat. To je defenzivní síla.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/blog/defenzivni-sila/</guid>
+      <dc:date>2014-07-23T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Wushu Stretch</title>
       <link>http://www.petrruzicka.com/blog/wushu-stretch/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/posvatna-krava/</guid>
       <dc:date>2014-06-26T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Nové termíny seminářů</title>
-      <link>http://www.petrruzicka.com/blog/nove-terminy-seminaru/</link>
-      <description>&lt;p&gt;17.srpna 2014 se v &lt;a href=&quot;http://www.crossfitcommitted.com/&quot;&gt;CrossFit Commited&lt;/a&gt; uskuteční seminář Stoj na rukou I a Pohyb I.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/nove-terminy-seminaru/</guid>
-      <dc:date>2014-06-25T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-07-21T00:00:00+02:00</dc:date>
+    <dc:date>2014-07-23T00:00:00+02:00</dc:date>
   </channel>
 </rss>
