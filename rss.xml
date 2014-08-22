@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Proč cvičím stojku</title>
+      <link>http://www.petrruzicka.com/blog/jak-jsem-zacal-se-stojkou/</link>
+      <description>&lt;p&gt;Často dostávám otázku, jak jsem se dostal ke stojce a proč jí cvičím.  Tak tady je odpověď.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/blog/jak-jsem-zacal-se-stojkou/</guid>
+      <dc:date>2014-08-22T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Ido Portal Internship, Berlin 2014</title>
       <link>http://www.petrruzicka.com/blog/ido-portal-internship/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/stretching/</guid>
       <dc:date>2014-07-13T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Optimální strava</title>
-      <link>http://www.petrruzicka.com/blog/optimalni-strava/</link>
-      <description>&lt;p&gt;Pokud nežijete někde v jeskyni, tak do vás neustále narážejí zprávy o tom, co máte jíst, kolik lžiček a čeho je nutné sníst každý den. Co naopak nejíst. Co jíst ráno, co večer. Jak je zdravé hladovět. Jak je důležité jíst pravidelně. Že je fajn vynechat snídani. Je to chaos. Nechci ale psát o tom, co jím k snídani a co je dobře. Ono je možná &amp;quot;dobře&amp;quot; úplně něco jiného.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 03 Jul 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/optimalni-strava/</guid>
-      <dc:date>2014-07-03T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-08-06T00:00:00+02:00</dc:date>
+    <dc:date>2014-08-22T00:00:00+02:00</dc:date>
   </channel>
 </rss>
