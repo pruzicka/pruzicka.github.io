@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Tue, 09 Sep 2014 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Srpnové rozhovory</title>
+      <link>http://www.petrruzicka.com/blog/srpen-mesic-rozhovoru/</link>
+      <description>&lt;p&gt;Srpen je měsíc, kdy se daří rozhovorům. Rostou jak houby po dešti, mně se urodily hned tři, z ničeho nic. Tady jsou odkazy, aby byly zachovány pro následující generace.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/blog/srpen-mesic-rozhovoru/</guid>
+      <dc:date>2014-09-16T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Ido Portal Corset, Kodaň 2014</title>
       <link>http://www.petrruzicka.com/blog/ido-portal-corset-protocol-kodan-2014/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/jak-jsem-zacal-se-stojkou/</guid>
       <dc:date>2014-08-22T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Ido Portal Internship, Berlin 2014</title>
-      <link>http://www.petrruzicka.com/blog/ido-portal-internship/</link>
-      <description>&lt;p&gt;V červenci jsem se zúčastnil Ido Portal Internshipu. Znamená to, že člověk jede na týden s Ido Portalem někam makat a je tam poměr instruktorů 1:1. Je to velice intenzivní výuka a množství informací (záměrně) obrovské. Myslím, že mi bude trvat tak rok, dva, než to celé zpracuji. &lt;/p&gt;
-</description>
-      <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/ido-portal-internship/</guid>
-      <dc:date>2014-08-06T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-09-09T00:00:00+02:00</dc:date>
+    <dc:date>2014-09-16T00:00:00+02:00</dc:date>
   </channel>
 </rss>
