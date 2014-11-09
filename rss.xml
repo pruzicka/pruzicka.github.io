@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Mon, 27 Oct 2014 00:00:00 +0100</pubDate>
+    <pubDate>Fri, 07 Nov 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Rozzlobená tvář</title>
+      <link>http://www.petrruzicka.com/blog/rozlobena-tvar/</link>
+      <description>&lt;p&gt;Asi na každém semináři nebo tréninku kde jsem učil jsem si nemohl nevšimnout obličeje zkřiveného bolestí nebo úsilím. A pokaždé musím znovu vysvětlovat, proč to není úplně ideální. Takže proč ?&lt;/p&gt;
+</description>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>http://www.petrruzicka.com/blog/rozlobena-tvar/</guid>
+      <dc:date>2014-11-07T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Ido Portal v Praze</title>
       <link>http://www.petrruzicka.com/blog/ido-portal-v-praze-movement-x/</link>
@@ -48,15 +57,6 @@ Všechny následující řádky jsou pro začátečníka, který neví, jak na t
       <guid>http://www.petrruzicka.com/blog/drep-ma-mnoho-podob/</guid>
       <dc:date>2014-09-17T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Srpnové rozhovory</title>
-      <link>http://www.petrruzicka.com/blog/srpen-mesic-rozhovoru/</link>
-      <description>&lt;p&gt;Srpen je měsíc, kdy se daří rozhovorům. Rostou jak houby po dešti, mně se urodily hned tři, z&amp;nbsp;ničeho nic. Tady jsou odkazy, aby byly zachovány pro následující generace.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/srpen-mesic-rozhovoru/</guid>
-      <dc:date>2014-09-16T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-10-27T00:00:00+01:00</dc:date>
+    <dc:date>2014-11-07T00:00:00+01:00</dc:date>
   </channel>
 </rss>
