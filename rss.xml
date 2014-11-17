@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Fri, 07 Nov 2014 00:00:00 +0100</pubDate>
+    <pubDate>Mon, 17 Nov 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Aby úder byl zase úder</title>
+      <link>http://www.petrruzicka.com/blog/aby-uder-byl-zase-uder/</link>
+      <description>&lt;p&gt;Bruce Lee jednou řekl: &amp;quot;Když jsem se začal studovat (bojové) umění, úder byl jenom úder a kop jenom kop. Pak jsem začal studovat a úder už nebyl jenom úder a kop nebyl jenom kop. Teď, když (bojové umění) chápu, úder je jenom úder a kop jenom kop.&amp;quot;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>http://www.petrruzicka.com/blog/aby-uder-byl-zase-uder/</guid>
+      <dc:date>2014-11-17T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Rozzlobená tvář</title>
       <link>http://www.petrruzicka.com/blog/rozzlobena-tvar/</link>
@@ -46,17 +55,6 @@ Všechny následující řádky jsou pro začátečníka, který neví, jak na t
       <guid>http://www.petrruzicka.com/blog/pozice-rukou-ve-stojce/</guid>
       <dc:date>2014-09-29T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Dřep má mnoho podob</title>
-      <link>http://www.petrruzicka.com/blog/drep-ma-mnoho-podob/</link>
-      <description>&lt;h2&gt;Kopec otázek&lt;/h2&gt;
-
-&lt;p&gt;Snad neuplyne den, kdy bych nedostal zprávu, e-mail nebo neviděl někde na Internetovém fóru dotaz, týkající se dřepu, konkrétně mého článku &lt;a href=&quot;/blog/zidle-chudeho-muze/&quot;&gt;Židle chudého muže&lt;/a&gt;. Článek má k dnešnímu dni 11.615 unikátních přečtení za 3 měsíce, dočkal se vydání na jiných serverech, jejichž majitelé mě kontaktovali, takže ho vidělo opravdu hodně lidí. Dnes bych tedy rád odpověděl na nejčastější dotazy, připomínky a také vcelku častou zdrcující kritiku. &lt;/p&gt;
-</description>
-      <pubDate>Wed, 17 Sep 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/drep-ma-mnoho-podob/</guid>
-      <dc:date>2014-09-17T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-11-07T00:00:00+01:00</dc:date>
+    <dc:date>2014-11-17T00:00:00+01:00</dc:date>
   </channel>
 </rss>
