@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Mon, 08 Dec 2014 00:00:00 +0100</pubDate>
+    <pubDate>Fri, 12 Dec 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Chobotnice v kuchyni</title>
+      <link>http://www.petrruzicka.com/blog/chobotnice-v-kuchyni/</link>
+      <description>&lt;p&gt;Na seminářích dostávám často otázku, jak procvičovat to, co tam děláme, ale na omezeném prostoru. Tak tady máte příklad.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0100</pubDate>
+      <guid>http://www.petrruzicka.com/blog/chobotnice-v-kuchyni/</guid>
+      <dc:date>2014-12-12T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Otevřená ramena</title>
       <link>http://www.petrruzicka.com/blog/otevrena-ramena/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/ido-portal-v-praze-movement-x/</guid>
       <dc:date>2014-10-27T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Z 0 na 60 za 11&amp;#160;měsíců</title>
-      <link>http://www.petrruzicka.com/blog/z-nuly-na-sedesat-za-11-mesicu/</link>
-      <description>&lt;p&gt;V tréninku handbalancera existuje jedna taková důležitá meta - když dokážete stát na rukou bez opory a výrazného pohybu 60 vteřin. Tento  článek popíše mojí cestu ke stojce, co trvá 60 vteřin.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 07 Oct 2014 00:00:00 +0200</pubDate>
-      <guid>http://www.petrruzicka.com/blog/z-nuly-na-sedesat-za-11-mesicu/</guid>
-      <dc:date>2014-10-07T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-12-08T00:00:00+01:00</dc:date>
+    <dc:date>2014-12-12T00:00:00+01:00</dc:date>
   </channel>
 </rss>
