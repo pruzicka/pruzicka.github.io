@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Fri, 12 Dec 2014 00:00:00 +0100</pubDate>
+    <pubDate>Fri, 26 Dec 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Hlad - přítel člověka</title>
+      <link>http://www.petrruzicka.com/blog/hlad-nejlepsi-pritel-cloveka/</link>
+      <description>&lt;p&gt;Dostávám poměrně časté dotazy, jaký je můj názor na hladovky, intermittent fasting (přerušovaný půst), půst - prostě na nějakou formu vynechání jídla (či pití). Píšu tenhle článek chvilku před vánoci, takže je to takové pikantní - za chvilku se český národ vrhne na obalené kapry, bramborové saláty, hromady cukroví, obložené chlebíczky a bude všechno jenom ne hladovět.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 26 Dec 2014 00:00:00 +0100</pubDate>
+      <guid>http://www.petrruzicka.com/blog/hlad-nejlepsi-pritel-cloveka/</guid>
+      <dc:date>2014-12-26T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Chobotnice v kuchyni</title>
       <link>http://www.petrruzicka.com/blog/chobotnice-v-kuchyni/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/rozzlobena-tvar/</guid>
       <dc:date>2014-11-07T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Ido Portal v Praze</title>
-      <link>http://www.petrruzicka.com/blog/ido-portal-v-praze-movement-x/</link>
-      <description>&lt;p&gt;Na duben 2015 jsem pozval do Prahy můj velký vzor, mého učitele a člověka, od kterého jsem se naučil hodně - bude tady Ido Portal.&lt;/p&gt;
-</description>
-      <pubDate>Mon, 27 Oct 2014 00:00:00 +0100</pubDate>
-      <guid>http://www.petrruzicka.com/blog/ido-portal-v-praze-movement-x/</guid>
-      <dc:date>2014-10-27T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2014-12-12T00:00:00+01:00</dc:date>
+    <dc:date>2014-12-26T00:00:00+01:00</dc:date>
   </channel>
 </rss>
