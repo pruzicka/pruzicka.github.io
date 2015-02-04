@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Mon, 02 Feb 2015 00:00:00 +0100</pubDate>
+    <pubDate>Wed, 04 Feb 2015 00:00:00 +0100</pubDate>
+    <item>
+      <title>Spánek II - podmínky</title>
+      <link>http://www.petrruzicka.com/blog/spanek-svetlo-teplota/</link>
+      <description>&lt;p&gt;Milé děti, přišel čas na další povídaní o spánku. Takže si přitáhněte peřinku a pěkně poslouchejte. &lt;a href=&quot;/spanek/&quot; target=&quot;_blank&quot;&gt;Minule&lt;/a&gt; to bylo o tom, proč spát, o tom, že spánek je skutečně důležitý. Dneska si budeme vyprávět o tom, jak spát, za jakých podmínek.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0100</pubDate>
+      <guid>http://www.petrruzicka.com/blog/spanek-svetlo-teplota/</guid>
+      <dc:date>2015-02-04T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Spánek</title>
       <link>http://www.petrruzicka.com/blog/spanek/</link>
@@ -45,15 +54,6 @@
       <guid>http://www.petrruzicka.com/blog/chobotnice-v-kuchyni/</guid>
       <dc:date>2014-12-12T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Otevřená ramena</title>
-      <link>http://www.petrruzicka.com/blog/otevrena-ramena/</link>
-      <description>&lt;p&gt;V článcích i komentářích často používám spojení &amp;quot;otevřená ramena&amp;quot;. Co to znamená mít otevřená ramena ?&lt;/p&gt;
-</description>
-      <pubDate>Mon, 08 Dec 2014 00:00:00 +0100</pubDate>
-      <guid>http://www.petrruzicka.com/blog/otevrena-ramena/</guid>
-      <dc:date>2014-12-08T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2015-02-02T00:00:00+01:00</dc:date>
+    <dc:date>2015-02-04T00:00:00+01:00</dc:date>
   </channel>
 </rss>
