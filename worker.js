@@ -4,6 +4,8 @@ var CACHE_NAME = 'pr-cache-v1';
 var url_to_cache = [
 '/',
 '/blog/podcasty-co-vas-zvednou-ze-zidle/index.html',
+'/blog/ido-portal-movement-camp-2015-cast-dve/index.html',
+'/blog/ido-portal-movement-camp-2015-cast-jedna//index.html',
 '/assets/js/search.min.js'
 ]
 
@@ -20,11 +22,7 @@ self.addEventListener('install', function(event) {
 self.addEventListener('fetch', function(event) {
   event.respondWith(
     caches.match(event.request).then(function(response) {
-      if (response)  {
-        console.log('Served from cache');
-        return response;
-      }
-      return fetch(event.request);
+      return response || return fetch(event.request);
     })
     );
 });
