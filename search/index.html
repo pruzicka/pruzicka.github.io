@@ -2,14 +2,14 @@
             <a href="/search">
             <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
             </a>
-          </li> --><li><a href=/#contact>Kontakt</a></li></ul></div></div></div><div class=container><div id=search><form action=/search><input id=search-query name=q placeholder=Search autocomplete=on autofocus></form></div><section id=search-results style="display: none"><p>Výsledky vyhledávání:</p><div class=entries></div></section><script id=search-results-template type=text/mustache>{{#entries}}
+          </li> --><li><a href=/#contact>Kontakt</a></li></ul></div></div></div><div class=container><div id=search><form action=/search><input id=search-query name=q placeholder=Search autocomplete=off autofocus></form></div><section id=search-results style="display: none"><p>Výsledky vyhledávání:</p><div class=entries></div></section><script id=search-results-template type=text/mustache>{{#entries}}
 		<article>
 			<h3>
 				{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
 				<a href="{{url}}">{{title}}</a>
 			</h3>
 		</article>
-		{{/entries}}</script></div><script src=/assets/js/search.min.js type=text/javascript charset=utf-8></script><script type=text/javascript>$(function() {
+		{{/entries}}</script></div><script src=/assets/js/search.min.js type=text/javascript charset=utf-8 async></script><script type=text/javascript>$(function() {
 		$('#search-query').lunrSearch({
       indexUrl: '/search.json',             // URL of the `search.json` index data for your site
       results:  '#search-results',          // jQuery selector for the search results container
