@@ -3,7 +3,7 @@ importScripts('/assets/js/serviceworker-cache-polyfill.js');
 // example usage:
 self.addEventListener('install', function(event) {
   event.waitUntil(
-    cachesPolyfil.open('pr-cache-v1').then(function(cache) {
+    cachesPolyfill.open('pr-cache-v1').then(function(cache) {
       return cache.addAll([
         '/',
         '/blog/podcasty-co-vas-zvednou-ze-zidle/',
