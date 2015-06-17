@@ -4,7 +4,7 @@ var CACHE_NAME = 'pr-cache-v1';
 var url_to_cache = [
 '/',
 '/blog/ido-portal-movement-camp-2015-cast-dve/index.html',
-'/blog/ido-portal-movement-camp-2015-cast-jedna//index.html',
+'/blog/ido-portal-movement-camp-2015-cast-jedna/index.html',
 '/assets/js/search.min.js'
 ]
 
