@@ -8,7 +8,20 @@
     <title>Petr Ruzicka</title>
     <link>http://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Thu, 11 Jun 2015 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 03 Jul 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Hic sunt leones</title>
+      <link>http://www.petrruzicka.com/blog/hic-sunt-leones/</link>
+      <description>&lt;p&gt;
+	Tenhle rok jsem v březnu začal mít pravidelné hodiny. Nejdřív jenom v pondělí, potom celkem rychle ještě ve čtvrtek, takže dvakrát týdně hodinu (pak ještě ve středu ráno, ale to nebylo úplně pro veřejnost). &lt;br&gt;
+	Jaké to bylo ?
+&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.petrruzicka.com/blog/hic-sunt-leones/</guid>
+      <dc:date>2015-07-03T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Podcasty, co vás zvednou ze židle (nejenom o pohybu)</title>
       <link>http://www.petrruzicka.com/blog/podcasty-co-vas-zvednou-ze-zidle/</link>
@@ -48,15 +61,6 @@
       <guid>http://www.petrruzicka.com/blog/program-stojka-I/</guid>
       <dc:date>2015-04-21T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Můj názor na CrossFit</title>
-      <link>http://www.petrruzicka.com/blog/muj-nazor-na-crossfit/</link>
-      <description>&lt;p&gt;Neuplyne týden, aby někdo nenapsal článek, jak je CrossFit stupidní a nebezpečný. A hned vedle se vám na Facebooku na zdi objeví jiný link, kde se píše, jak je CrossFit úžasný. Kde je tedy &amp;quot;pravda&amp;quot; ? Přečtěte si knihu &amp;quot;Paměti mojí babičce&amp;quot; a dojde vám, že pravda neexistuje, resp. je to velice relativní a subjektivní pojem. &lt;/p&gt;
-</description>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>http://www.petrruzicka.com/blog/muj-nazor-na-crossfit/</guid>
-      <dc:date>2015-03-23T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2015-06-11T00:00:00+02:00</dc:date>
+    <dc:date>2015-07-03T00:00:00+02:00</dc:date>
   </channel>
 </rss>
