@@ -8,7 +8,19 @@
     <title>Petr Ruzicka</title>
     <link>https://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Fri, 03 Jul 2015 00:00:00 +0200</pubDate>
+    <pubDate>Thu, 16 Jul 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Sbírka motýlů</title>
+      <link>https://www.petrruzicka.com/blog/sbirka-motylu/</link>
+      <description>&lt;p&gt;
+	Mám pocit, že s výukou pohybu se v poslední době roztrhnul pytel. Mám na tom asi taky trochu zásluhu, ale moc nadšený z toho nejsem. Co to vlastně koho učíme ? A jak ?
+&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 16 Jul 2015 00:00:00 +0200</pubDate>
+      <guid>https://www.petrruzicka.com/blog/sbirka-motylu/</guid>
+      <dc:date>2015-07-16T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Hic sunt leones</title>
       <link>https://www.petrruzicka.com/blog/hic-sunt-leones/</link>
@@ -52,15 +64,6 @@
       <guid>https://www.petrruzicka.com/blog/ido-portal-movement-camp-2015-cast-jedna/</guid>
       <dc:date>2015-04-22T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Program pro účastníky kurzů Stojka I</title>
-      <link>https://www.petrruzicka.com/blog/program-stojka-I/</link>
-      <description>&lt;p&gt;Program &amp;quot;Stojka I&amp;quot; ke stažení.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 21 Apr 2015 00:00:00 +0200</pubDate>
-      <guid>https://www.petrruzicka.com/blog/program-stojka-I/</guid>
-      <dc:date>2015-04-21T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2015-07-03T00:00:00+02:00</dc:date>
+    <dc:date>2015-07-16T00:00:00+02:00</dc:date>
   </channel>
 </rss>
