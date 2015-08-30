@@ -8,7 +8,16 @@
     <title>Petr Ruzicka</title>
     <link>https://www.petrruzicka.com</link>
     <description>Jak pěstovat sílu, rovnováhu i mobilitu, jak uzdravit tělo a jak se lépe hýbat. Pohyb, cvičení a tréning (nejen) s vlastní vahou, ale se vším, co dává smysl, člověka to rozvíjí a hlavně je to zábava.</description>
-    <pubDate>Mon, 27 Jul 2015 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 30 Aug 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>101 Reasons To Do Handstand</title>
+      <link>https://www.petrruzicka.com/blog/101-reasons-for-handstands/</link>
+      <description>&lt;p&gt;Why should we stand on hands? Why do a handstand? What are the advantages of a handstand? This article mentions only some of them.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0200</pubDate>
+      <guid>https://www.petrruzicka.com/blog/101-reasons-for-handstands/</guid>
+      <dc:date>2015-08-30T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Žongl</title>
       <link>https://www.petrruzicka.com/blog/zonglovani/</link>
@@ -58,15 +67,6 @@
       <guid>https://www.petrruzicka.com/blog/podcasty-co-vas-zvednou-ze-zidle/</guid>
       <dc:date>2015-06-11T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Ido Portal Movement Camp, Phuket 2015 (díl druhý)</title>
-      <link>https://www.petrruzicka.com/blog/ido-portal-movement-camp-2015-cast-dve/</link>
-      <description>&lt;p&gt;V &lt;a href=&quot;/blog/ido-portal-movement-camp-2015-cast-jedna/&quot;&gt;minulém článku&lt;/a&gt; o Movement Campu 2015 jsem se celkem rozepsal, takže jsem to celé rozdělil na dvě části. Dnes to dokončíme.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 29 Apr 2015 00:00:00 +0200</pubDate>
-      <guid>https://www.petrruzicka.com/blog/ido-portal-movement-camp-2015-cast-dve/</guid>
-      <dc:date>2015-04-29T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2015-07-27T00:00:00+02:00</dc:date>
+    <dc:date>2015-08-30T00:00:00+02:00</dc:date>
   </channel>
 </rss>
